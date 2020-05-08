@@ -4,5 +4,5 @@
 
 ## Todos 
 -[x] first commit of go project
--[] Continue to finish Gomoku
+-[ ] Continue to finish Gomoku
 
